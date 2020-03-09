@@ -1,14 +1,14 @@
 # Lincoln Full-Stack Engineer Take-Home Project
 
-This take-home project is designed to simulate real world client work. It should take a couple hours to complete. Please work at your own pace and comfort.
+This take-home project is designed to simulate real world client work. It should take up to only a few hours to complete. Please work at your own pace and comfort.
 
-Any ambiguity found in the task is intentional; we want to see how you navigate decision trees and how you defend your choices.
+Any ambiguity found in the task is intentional; we want to see how you navigate decision trees and how you defend your choices. Approach this as you would approach a task given by a real client. 
 
 ## Instructions
 
 1. Clone this repo under your own GitHub account.
 2. Complete the task below.
-3. After completing the task, add **hans-lincoln** as a collaborator to your cloned repo.
+3. After completing the task, add **NotASithLord** as a collaborator to your cloned repo.
 
 ## Task 
 
@@ -50,4 +50,4 @@ Additionally, the client wants to be alerted on every successfuly CSV upload wit
 ### Tips
 
 - We have provided a sample `donations.csv` file in the repo to use for seed data.
-- We are grading more for functionality than polish. We do not want you to spend significant time on aethetics, though clean, elegant UI/UX is encouraged.
+- We are grading for functionality and approach over polish. We do not want you to spend significant time on aethetics, though clean, elegant UI/UX is encouraged.
