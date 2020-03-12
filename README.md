@@ -1,4 +1,7 @@
 # Lincoln Full-Stack Engineer Take-Home Project
+All alerts are sent to robertp93@gmail.com (due to SES limitations on sandbox emailing).
+https://lincoln.robpetri.com is the live demo
+
 
 This take-home project is designed to simulate real world client work. It should take up to only a few hours to complete. Please work at your own pace and comfort.
 
@@ -46,6 +49,7 @@ Additionally, the client wants to be alerted on every successfuly CSV upload wit
 - You may use any language/framework/tool to build the dashboard. Add any relevant files/code to the cloned repository.
 - Somewhere in the repo, add a public URL to view the dashboard.
 - Create an alert on successful CSV upload. You may send alert to any service (email, Slack, etc). Be prepared to demo this functionality.
+
 
 ### Tips
 
